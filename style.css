@@ -255,6 +255,7 @@ body{
 
 .recipe-details-steps ol{
     padding-left: 28px;
+    margin: 11px;
 }
 
 /*========= RESPONSIVE LAYOUT =========*/
